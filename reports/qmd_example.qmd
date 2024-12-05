@@ -5,6 +5,8 @@ format:
     html:
         toc: true
 editor: source
+execute:
+    echo: false
 bibliography: references.bib
 ---
 
